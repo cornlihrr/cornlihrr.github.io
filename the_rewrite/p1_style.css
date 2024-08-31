@@ -1,4 +1,5 @@
 * {font-family: 'Comic Sans MS'; font-size: 1.5vw;}
+body {margin: 0;}
 a {text-decoration: none;}
 .text-align_center {text-align: center;}
 div, .topbar div a, .topbar div span {border: rgba(0,0,0, 0.75) solid 1px; border-radius: 5px;}
